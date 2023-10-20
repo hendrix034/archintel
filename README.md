@@ -1,24 +1,20 @@
 # archintel-articles
 
-## Project setup
-```
-npm install
-```
+Front end
+1. npm install
+2. npm run serve
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Back end
+1.Install XAMPP Control Panel version 3.3.0.
+2.After the installation is complete, take the "archintel-backend" folder and place it in the xampp/htdocs folder.
+3.Open the XAMPP application and start the Apache and MySQL services.
+4.Import the "archintel.sql" file into the MySQL database.
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+To explore
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Login this credential and you can explore the system
+
+Email:admin@admin.com
+password: admin
+
