@@ -15,6 +15,13 @@ To explore
 
 Login this credential and you can explore the system
 
+editor
 Email: admin@admin.com
 password: admin
+
+writer
+Email: user@user.com
+password: user
+
+Live link: https://hendrix-archintel-articles.web.app/
 
